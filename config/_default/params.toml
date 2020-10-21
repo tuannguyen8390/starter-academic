@@ -114,7 +114,7 @@ appointment_url = "https://calendly.com"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/DrKangabu"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:tuan.vietnguyen90?call"},
-  {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:tuan.nguyen@agriculture.vic.gov.au"
+  {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:tuan.nguyen@agriculture.vic.gov.au"}
   ]
 
 ############################
