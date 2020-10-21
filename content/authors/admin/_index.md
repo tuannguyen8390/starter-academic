@@ -21,21 +21,23 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Transcriptomics (Bulk & Single Cell RNA-seq)
+- Ultra-long reads Genomics
+- Data mining using big data in Genomics
+- Bioinformatics
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Aquaculture Genomics
+    institution: University of the Sunshine Coast
+    year: 2019
+  - course: Msc in Applied Science
+    institution: Queensland University of Technology
+    year: 2015
+  - course: BSc in Biotechnology
+    institution: International University, Ho Chi Minh National University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +46,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:tuan.nguyen@agriculture.vic.gov.au
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DrKangabu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=YuS731wAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tuannguyen8390
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-0415-0623
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Tuan_Nguyen33
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,6 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Howdy ! I'm Tuan - proudly Vietnamese and currently living in Australia. I'm currently a research scientist @ Agriculture Victoria working in dairy cows genetics & genomics. I classified myself as a computational biologist with a recent big interest in latest transcriptomics (single cell) and genomics technologies (long read sequencing) using NGS. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+If you want to chat, please ping me an email at tuan[dot]nguyen[at]agriculture[dot]vic[dot]gov[dot]au if you want to have a chat !
