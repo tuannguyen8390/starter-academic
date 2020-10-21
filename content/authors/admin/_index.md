@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tuan Nguyen
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist in Computational Biology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Argiculture Victoria Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
