@@ -18,31 +18,31 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "80%"
+  description = "Intermediate skills, dyplr, bioconductor, R scripting and a lot of GGplots styling"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "30%"
+  description = "Novice with Python, definitely can code a quick "Hello,world :P""
  
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "80%"
+  description = "HPC with SLURM/PBS, Bash scripting and so on"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Self-taught statistics & Machine Learning, a long way to go"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "50%"
+  description = "My little hobby :)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
