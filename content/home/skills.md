@@ -24,7 +24,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Novice with Python, definitely can code a quick "Hello,world :P""
+  description = "Novice with Python, definitely can code a quick 'Hello, world' "
  
 [[feature]]
   icon = "linux"
