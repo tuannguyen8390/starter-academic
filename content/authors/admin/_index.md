@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include big data in Genomics, anything sequencing (from ultra-long read sequencing like Nanopore or Pacbio to short read like Illumina NovaSeq) as well as bioinformatics in general.
 
 interests:
 - Transcriptomics (Bulk & Single Cell RNA-seq)
@@ -81,7 +81,6 @@ user_groups:
 - Visitors
 ---
 
-Howdy ! I'm Tuan - proudly Vietnamese and currently living in Australia. I'm currently a research scientist @ Agriculture Victoria working in dairy cows genetics & genomics. I classified myself as a computational biologist with a recent big interest in latest transcriptomics (single cell) and genomics technologies (long read sequencing) using NGS. 
+Howdy ! I'm Tuan - proudly Vietnamese/Australian currently living in Melbourne, Australia. At the moment I'm employed as a research scientist in computational biology @ Agriculture Victoria working in dairy cows genetics & genomics. In addition, I still have some side quests with the aquaculture world relating to some old projects during PhD. I classified myself as a computational biologist with a very big interest in applied genomics technologies in agriculture. For example, application of ultra-long read sequencing like Nanopore or Pacbio or single cell/spatial transcriptomics.
 
-
-If you want to chat, please ping me an email at tuan[dot]nguyen[at]agriculture[dot]vic[dot]gov[dot]au if you want to have a chat !
+If you want to have a quick chat about anything (trust me I won't bite :P), please ping an email to my tuan[dot]nguyen[at]agriculture[dot]vic[dot]gov[dot]au !
