@@ -18,9 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Howdy ! I'm Tuan - proudly Vietnamese/Australian currently living in Melbourne, Australia. At the moment I'm employed as a research scientist in computational biology @ Agriculture Victoria working in dairy cows genetics & genomics. In addition, I still have some side quests with the aquaculture world relating to some old projects during PhD. I classified myself as a computational biologist with a very big interest in applied genomics technologies in agriculture. For example, application of ultra-long read sequencing like Nanopore or Pacbio or single cell/spatial transcriptomics.
-
-If you want to have a quick chat about anything (trust me I won't bite :P), please ping an email to my tuan[dot]nguyen[at]agriculture[dot]vic[dot]gov[dot]au !
+bio: Howdy ! I'm Tuan - proudly Vietnamese/Australian currently living in Melbourne, Australia. At the moment I'm employed as a research scientist in computational biology @ Agriculture Victoria working in dairy cows genetics & genomics. In addition, I still have some side quests with the aquaculture world relating to some old projects during PhD. I classified myself as a computational biologist with a very big interest in applied genomics technologies in agriculture. For example, application of ultra-long read sequencing like Nanopore or Pacbio or single cell/spatial transcriptomics. If you want to have a quick chat about anything (trust me I won't bite :P), please ping an email to my tuan[dot]nguyen[at]agriculture[dot]vic[dot]gov[dot]au !
 
 interests:
 - Transcriptomics (Bulk & Single Cell RNA-seq)
