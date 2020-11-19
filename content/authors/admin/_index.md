@@ -32,10 +32,10 @@ education:
   - course: PhD in Aquaculture Genomics
     institution: University of the Sunshine Coast
     year: 2019
-  - course: Msc in Applied Science
+  - course: Msc in Applied Science (MsAppSc)
     institution: Queensland University of Technology
     year: 2015
-  - course: BSc in Biotechnology
+  - course: BSc in Biotechnology (Honour)
     institution: International University, Ho Chi Minh National University
     year: 2012
 
@@ -81,9 +81,15 @@ user_groups:
 - Visitors
 ---
 
-Howdy ! I'm Tuan (call me Twain if you found Vietnamese are too tricky to pronounce) - proudly Vietnamese/Australian currently living in Melbourne, Australia. At the moment I'm employed as a research scientist in computational biology at **Agriculture Victoria** working in dairy cows genetics & genomics. In addition, I still have some side quests with the aquaculture world relating to some old projects during PhD. 
+Howdy ! I'm Tuan (call me Twain if you found Vietnamese are too tricky to pronounce) - proudly Vietnamese/Australian currently living in Melbourne, Australia. I'm a research scientist in computational biology at [**Agriculture Victoria**](https://agriculture.vic.gov.au/), working under the supervision of Dr Iona MacLeod in the field of genetics & genomics for dairy cattle. In addition, I still have some side quests with the aquaculture world relating to a few old projects during my PhD at the [**University of the Sunshine Coast**](https://usc.edu.au).
 
-I classified myself as a computational biologist with a very big interest in applied genomics technologies in agriculture. In particular (i) application of ultra-long read sequencing like Nanopore or Pacbio or (ii) single cell/spatial transcriptomics.
+I classified myself as a computational biologist with huge interests in applied genomics technologies in agriculture. In particular (i) application of *ultra-long read sequencing* like **Nanopore** or **Pacbio** or (ii) single cell/spatial transcriptomics by **10X Genomics**. I also picked up a new interest recently in reproducible science with workflows like **NextFlow**. 
 
-If you want to have a quick chat about anything (*trust me I won't bite :P*), please ping an email to my tuan[dot]nguyen[at]agriculture[dot]vic[dot]gov[dot]au !
+Please do visit my [Twitter](https://twitter.com/DrKangabu), [ResearchGate](https://www.researchgate.net/profile/Tuan_Nguyen33), or my [LinkedIn](https://www.linkedin.com/in/tuan-nguyen-38a94179/) to know more about my previous & current research. If you want to have a quick chat about anything along the ***#hashtag*** of ***#Nerd #Gamer #Techie #Photography***, please ping an email to my personal email at
+
+
+tuan[**dot**]vietnguyen90[**at**]gmail[**dot**]com !
+
+---
+
 
