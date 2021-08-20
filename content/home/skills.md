@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Intermediate skills, dyplr, bioconductor, R scripting and a lot of GGplots styling"
+  description = "Advanced skills, knows how to do magic trick with tidyr, dyplr, bioconductor, and a lot of GGplots styling"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Novice with Python, definitely can code a quick 'Hello, world' "
+  description = "Intermediate with Python, definitely can code a quick 'Hello, world' & a few here and there tools for data anlysis"
  
 [[feature]]
   icon = "linux"
