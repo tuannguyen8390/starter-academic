@@ -18,13 +18,14 @@ organizations:
   url: "https://agriculture.vic.gov.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include big data in Genomics, anything sequencing (from ultra-long read sequencing like Nanopore or Pacbio to short read like Illumina NovaSeq) as well as bioinformatics in general.
+bio: My research interests include big data in genomics, anything sequencing (from ultra-long read sequencing like Oxford Nanopore or PacBio to short read sequencing technologies like Illumina) as well as bioinformatics in general.
 
 interests:
-- Transcriptomics (Bulk & Single Cell RNA-seq)
-- Ultra-long reads Genomics
-- Data mining using big data in Genomics
-- Bioinformatics
+- Application of ultra-long reads in genomics
+- Transcriptomics (Bulk & single Cell RNA-seq)
+- Data mining using big data in genomics
+- Development of bioinformatics tools/scripts
+- Workflows for bioinformatics
 
 
 education:
@@ -81,7 +82,7 @@ user_groups:
 - Visitors
 ---
 
-Howdy ! I'm Tuan (call me Twain if you found Vietnamese are too tricky to pronounce) - proudly Vietnamese/Australian currently living in Melbourne, Australia. I'm a research scientist in computational biology at [**Agriculture Victoria**](https://agriculture.vic.gov.au/), working under the supervision of Dr Iona MacLeod in the field of genetics & genomics for dairy cattle. In particular, the field of genotype imputation. In addition, I still have some side quests with the aquaculture world relating to a few old projects during my PhD at the [**University of the Sunshine Coast**](https://usc.edu.au).
+Howdy ! I'm Tuan (call me Twain if you found Vietnamese are too tricky to pronounce) - proudly Vietnamese/Australian currently living in Melbourne, Australia. I'm a research scientist in computational biology at [**Agriculture Victoria**](https://agriculture.vic.gov.au/), working under the supervision of Dr Iona MacLeod in the field of genetics & genomics for dairy cattle. I'm also at the moment hold a consultant position @ Zymo Research, CA for deployment of their outsourcing parter, Pacific Informatics in Vietnam. In addition, I still have some side quests with the aquaculture world relating to a few old projects during my PhD at the [**University of the Sunshine Coast**](https://usc.edu.au).
 
 I classified myself as a computational biologist with huge interests in applied genomics technologies in agriculture. In particular (i) application of *ultra-long read sequencing* like **Nanopore** or **Pacbio** or (ii) single cell/spatial transcriptomics by **10X Genomics**. Throughout my career, I've been in contact with so many great mentors that show me the wonders of computational biology and I've decided that this is the career I want to pursue in the long run. I can code in **BASH**, pretty advanced in graphing with **R**, knows enough **Python** to code some quickie tools for data analysis and willing to pick up skills in **ML/AI**. I also picked up a new interest recently in reproducible science with version control with **Git** and workflows like **NextFlow**.
 

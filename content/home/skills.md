@@ -15,10 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux/UNIX"
+  description = "HPC with SLURM/PBS, Bash scripting and so on"
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced skills, knows how to do magic trick with tidyr, dyplr, bioconductor, and a lot of GGplots styling"
+  description = "Advanced skills, knows how to do magic trick with tidyr, dyplr, bioconductor, and a lot of ggplots 2 styling"
 
 [[feature]]
   icon = "python"
@@ -27,22 +33,23 @@ subtitle = ""
   description = "Intermediate with Python, definitely can code a quick 'Hello, world' & a few here and there tools for data anlysis"
  
 [[feature]]
-  icon = "linux"
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Nextflow"
+  description = "Workflow management with Nextflow, a language for bioinformatics pipelines"
+
+[[feature]]
+  icon = "git"
   icon_pack = "fab"
-  name = "Linux"
-  description = "HPC with SLURM/PBS, Bash scripting and so on"
-  
+  name = "Git/GitHub"
+  description = "Git/GitHub for version control"  
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "Self-taught statistics & Machine Learning, a long way to go"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "My little hobby :)"
+  icon = "aws"
+  icon_pack = "fab"
+  name = "Amazon Cloud Services"
+  description = "AWS for EC2, S3 for cloud computing"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
