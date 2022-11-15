@@ -30,10 +30,10 @@ date_format = "Jan 2006"
   title = "Technical Consultant"
   company = "Zymo Research/Pacific Informatics"
   company_url = ""
-  location = "Remote, Vietnam and USA"
+  location = "Remote"
   date_start = "2021-12-14"
   date_end = ""
-  description = "Deployment of workflows for outsourcing bioinformatics pipeline"
+  description = "Workflows for bioinformatics pipeline"
 
 [[experience]]
   title = "Research Assistant"

@@ -100,7 +100,7 @@ address = {street = "5 Rings Road", city = "Melbourne", region = "Bundoora", pos
 coordinates = {latitude = "-37.723771", longitude = "145.053203"}
 
 # Directions for visitors to locate you.
-directions = "Quadrant D"
+directions = "L2Q2 - Desk 2.0.79"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
