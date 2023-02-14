@@ -26,14 +26,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Doing research for the benefit of the Australian dairy industry"
 
-[[experience]]
-  title = "Technical Consultant"
-  company = "Zymo Research/Pacific Informatics"
-  company_url = ""
-  location = "Remote"
-  date_start = "2021-12-14"
-  date_end = ""
-  description = "Workflows for bioinformatics pipeline"
+#  title = "Technical Consultant"
+#  company = "Zymo Research/Pacific Informatics"
+#  company_url = ""
+#  location = "Remote"
+#  date_start = "2021-12-14"
+#  date_end = ""
+#  description = "Workflows for bioinformatics pipeline"
 
 [[experience]]
   title = "Research Assistant"
